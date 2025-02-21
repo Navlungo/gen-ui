@@ -1,0 +1,12 @@
+This is a Next.js project with LangChain integration, using modern UI components from Radix UI and styled with Tailwind CSS
+
+This project is forked from https://github.com/bracesproul/gen-ui.
+
+Please read all the files and reason about them before suggesting changes.
+
+ALWAYS implement the changes step by step.
+
+ALWAYS use the existing code as a reference and base.
+
+
+
